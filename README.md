@@ -40,6 +40,10 @@ Proyecto orientado a organizar, buscar y compartir recetas con familiares y amig
 ### Dungeons and Adventures (Próximamente)
 Videojuego narrativo estilo elige tu propia aventura, basado en decisiones ramificadas, inventario, nivel, estadísticas dinámicas y múltiples finales posibles. 
 
+| Lenguajes más utilizados |
+| :---: |
+| ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=PoemaPalermo&theme=dracula&layout=compact&langs_count=6) |
+
 ## Contacto
 
 - **LinkedIn:** [Mi perfil profesional](https://www.linkedin.com/in/poema-palermo-955058358/)
